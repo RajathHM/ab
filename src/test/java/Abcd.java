@@ -6,9 +6,5 @@ public class Abcd {
 		System.out.println("hi");
 		System.out.println("Hellloo");
 
-		System.out.println("Yadav");
-
-		System.out.println("Rj");
-
 	}
 }
